@@ -1,0 +1,49 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.container {
+  display: flex;
+  width: auto;
+  justify-content: center;
+}
+
+article {
+  background-color: cadetblue;
+  margin-right: 11px;
+  padding: 11px;
+  margin-bottom: 5px;
+}
+
+.main {
+  display: flex;
+  flex-flow: row-reverse;
+  justify-content: center;
+  max-width: 811px;
+}
+
+.main aside {
+  padding: 33px;
+  min-height: 133px;
+
+  background-color: cadetblue;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: cadetblue;
+  margin-top: 11px;
+}
