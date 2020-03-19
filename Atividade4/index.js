@@ -1,0 +1,1 @@
+var escolhaInput = prompt('Escolha uma opção: \n\n[1] Pedra\n\n[2] Papel\n\n[3] Tesoura');
