@@ -7,7 +7,7 @@ maiorNumero(numero1, numero2, numero3);
 function maiorNumero(numero1, numero2, numero3) {
   var arrayNumeros = [numero1, numero2, numero3];
 
-  arrayNumeros.sort();
+  arrayNumeros.sort((a, b) => a - b);
 
   alert(arrayNumeros[arrayNumeros.length - 1]);
 }
