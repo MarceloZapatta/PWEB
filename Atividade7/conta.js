@@ -1,4 +1,4 @@
-function Correntista() {
+function Conta() {
   this.getNomeCorrentista = () => {
     return this.nomeCorrentista;
   };

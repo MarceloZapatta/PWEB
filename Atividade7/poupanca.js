@@ -16,4 +16,4 @@ function Poupanca() {
   };
 }
 
-Poupanca.prototype = new Correntista();
+Poupanca.prototype = new Conta();

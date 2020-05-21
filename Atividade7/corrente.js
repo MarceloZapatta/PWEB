@@ -8,4 +8,4 @@ function Corrente() {
   };
 }
 
-Corrente.prototype = new Correntista();
+Corrente.prototype = new Conta();
