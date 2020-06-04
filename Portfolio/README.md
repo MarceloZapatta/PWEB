@@ -2,6 +2,10 @@
 
 Portfólio pessoal
 
+# Build commitado
+
+Para rodar o portfólio basta abrir o arquivo index.html da pasta dist
+
 ### Instalação e uso
 
 #### Instalar as dependencias
